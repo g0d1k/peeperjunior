@@ -1,0 +1,76 @@
+<head>
+<title>Baby Valentine</title>
+</head>
+<body>
+
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+
+<h1 style="font-size:60px;font-family:Comic Sans MS;color:   #000000;">Welcome to Peeper Juniors page!</h1> <h2 style="font-size:60px;font-family:Comic Sans MS;color: #000000;text-align:center">(aka) Baby Valentine...</h2> 
+<br><p style="font-size:30px;font-family:Comic Sans MS;color:   #000000;">Stop by regularly for updates and pictures on Brandi and my journey to bring Peeper Jr. into the world!</p> </br>
+<p style="font-size:30px;font-family:Comic Sans MS;color:   #000000;">From the time I was born my sister Donna (Dee) called me "Peeper". When I told Donna that Brandi and me were expecting, one of the first things she said was "Peeper Junior"...... hence the name.</p>
+</body>
+</html>
+ 
+
+ <style>
+body {
+  background-image: url('https://i.ibb.co/C5q9DJh/blue-sky-with-clouds-and-stars-moon-background-illustration-free-vector.webp');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style> 
+
+
+<div>
+ <a href="https://www.babylist.com/baby-brandi-valentine" alt="Baby Registry" <center style="font-size:100px;font-family: Comic Sans MS;">Our Baby Registry!</center>
+</div>
+
+
+
+
+<script src="https://cdn.logwork.com/widget/countdown.js"></script>
+<a href="https://logwork.com/countdown-7z2a" class="countdown-timer" data-timezone="America/New_York" data-textcolor="#0a0909#" data-date="2023-01-18 12:00" data-background="#050404" data-digitscolor="#8b0000">Baby Valentine's Due Date</a>
+
+
+ <p style="text-align:center;"><img src="https://i.ibb.co/x5khK44/stork-unscreen.gif"
+       width="325"
+       height="300" />
+
+<div>
+ <img src="https://i.ibb.co/S7YR8gh/FB-IMG-1655650385189.jpg" alt="My first Father's Day!" style="width:400px;height:500px;">
+  <center style="font-size:30px;font-family: Comic Sans MS;">Yep, I teared up a bit<br/>
+</div>
+
+
+<br>
+<div>
+ <img src="https://i.ibb.co/MswMnF3/asparagus.jpg" alt="THE BUMP!" style="width:650px;height:400px;">
+  <center style="font-size:30px;font-family: Comic Sans MS;"></center>
+</div> </br>
+
+<br>
+<h1 style="font-size:60px;font-family: Comic Sans MS;color: #ff0000"><u>Key Takeaways at 31 Weeks Pregnant</u></h1>
+
+<p style="font-size:30px;font-family: Comic Sans MS;color: #000000">Things are feeling mighty crowded. You might be having trouble walking, talking or doing both at the same time. Baby is making it hard for you to feel like you can catch your breath.</p> </br>
+<p style="font-size:30px;font-family: Comic Sans MS;color: #000000">Fundal height is probably somewhere around 30 centimeters—give or take. Suffice it to say, you may no longer be able to see your feet when you’re standing up straight.</p> </br>
+<br><p style="font-size:30px;font-family: Comic Sans MS;color:  #000000">If you’re expecting twins, your doctor may schedule a biophysical profile. This is a combo ultrasound and a non-stress test (NST). For the NST, you’ll have sensors put on your belly to detect and measure your contractions and baby or babies’ heart rates.</p> </br>
+<br><p style="font-size:30px;font-family: Comic Sans MS;color:  #000000">All five of baby’s senses are fully developed at 31 weeks pregnant. Baby is also getting smarter! In the meantime, you might actually feel a little absentminded. Some say that “pregnancy brain” isn’t a real thing, but can you honestly think of another time in your life when you’ve had as much on your mind as now? There’s ample reason to be so forgetful at week 31 of pregnancy.</p> </br>
+</div></br>
+
+<br>
+<h1 style="font-size:60px;font-family: Comic Sans MS;color: #ff0000"><u>Baby at Week 31</u></h1>
+</br>
+
+<br>
+<p style="font-size:30px;font-family: Comic Sans MS;color: #000000">Your week 31 fetus is going through major brain and nerve development. Their eyes are developing too—the irises can now react to light! (A little light does shine into your 31 weeks pregnant belly at times!) In fact, all five of baby’s senses are in working order.</p>
+</br>
+<div>
+ <a href="https://pictures.peeperjunior.com"><img src="https://i.ibb.co/ftwc80q/287-2876978-boy-and-girl-baby-cartoon-images-cartoon-baby.png"
+       alt="PEE BOY!" style="width:400px;height:400px;">
+  <center style="font-size:30px;font-family: Comic Sans MS;">CLICK PEE BOY FOR PICTURES OF OUR JOURNEY!</center>
+</div>
